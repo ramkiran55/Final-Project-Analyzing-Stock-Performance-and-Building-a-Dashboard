@@ -10,7 +10,6 @@ Question 5 - Tesla Stock and Revenue Dashboard
 Question 6 - GameStop Stock and Revenue Dashboard
 Question 7 - Sharing your Assignment Notebook 
 
-
 watson studio ipython notebook :
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/acc9ee8b-2231-4c6c-8508-d20e7a6537d3/view?access_token=4f600d2406734ac3c10f170206f4ee6fb383a02699f225d98e9f4235b5c64146
 
